@@ -1,0 +1,10 @@
+dist/
+android/out/
+android/assets/
+*.jks
+*.keystore
+*.apk
+*.idsig
+node_modules/
+docs/shots-*
+three.min.js
